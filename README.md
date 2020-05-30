@@ -18,7 +18,7 @@ Your project should fall into one of the below four tracks:
 
 #A dashboard page with multiple charts that update from the same data
 
-![](Imagse/Dashboard.PNG)
+![](Images/Dashboard.PNG)
 
 #Project must be powered by a data set with at least 100 records.
 #Project must include some level of user-driven interaction (e.g., menus, dropdowns, textboxes).
