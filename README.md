@@ -1,21 +1,21 @@
-# Project 2_Tableau Challenge
+## Project 2_Tableau Challenge
 
-# Project Requirements
+## Project Requirements
 
 ![](Images/Description.PNG)
 
-# Specific Requirements
+## Specific Requirements
 
-#Your project should fall into one of the below four tracks: 
-	#A custom “creative” D3.js project (i.e., a nonstandard graph or chart)
+Your project should fall into one of the below four tracks: 
+#A custom “creative” D3.js project (i.e., a nonstandard graph or chart)
 
 ![](Images/Graph.PNG)
 
-	#A combination of web scraping and Leaflet or Plotly
+#A combination of web scraping and Leaflet or Plotly
 
 ![](Images/Map.PNG)
 
-	#A dashboard page with multiple charts that update from the same data
+#A dashboard page with multiple charts that update from the same data
 
 ![](Imagse/Dashboard.PNG)
 
